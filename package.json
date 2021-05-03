@@ -1,0 +1,27 @@
+{
+  "name": "trek-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Hain",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-api": "^0.10.7",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/eslint-parser": "^7.13.14",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-node": "^0.3.4",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.2.1"
+  }
+}
